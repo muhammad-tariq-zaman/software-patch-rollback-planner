@@ -1,0 +1,6 @@
+patch_id,system,installed_date,has_snapshot,risk,reboot_required
+KB5034441,WS-01,2026-11-10,yes,high,yes
+KB5034440,WS-02,2026-11-09,no,high,yes
+KB5034439,SRV-DB01,2026-11-08,yes,medium,no
+KB5034438,WS-03,2026-11-11,yes,low,yes
+KB5034437,WS-04,2026-11-07,yes,high,no
